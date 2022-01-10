@@ -807,10 +807,6 @@ input[type="radio"] {
 
     img {
       width: 100%;
-
-      .preview {
-        height: 15em;
-      }
     }
   }
 
@@ -1190,10 +1186,6 @@ input[type="button"],
 
   .image {
     margin: 0 0 (_size(element-margin) * 0.75) 0;
-
-    .preview {
-      height: 15em;
-    }
   }
 
   h3 {
